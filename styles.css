@@ -370,7 +370,7 @@ table th {
 
 .c0 {
 	font-size: 12pt;
-	font-family: "Proxima Nova";
+	font-family: "Roboto";
 	font-style: italic;
 	color: #666666;
 	font-weight: 400
@@ -380,7 +380,7 @@ table th {
 	text-decoration: none;
 	vertical-align: baseline;
 	font-size: 10pt;
-	font-family: "Proxima Nova"
+	font-family: "Roboto"
 }
 
 .c15 {
@@ -392,7 +392,7 @@ table th {
 
 .c11 {
 	font-size: 12pt;
-	font-family: "Proxima Nova";
+	font-family: "Roboto";
 	color: #353744;
 	font-weight: 400
 }
@@ -406,7 +406,7 @@ table th {
 
 .c23 {
 	font-size: 14pt;
-	font-family: "Proxima Nova";
+	font-family: "Roboto";
 	color: #00ab44;
 	font-weight: 700
 }
@@ -426,13 +426,13 @@ table th {
 .c31 {
 	color: #53bb84;
 	font-size: 14pt;
-	font-family: "Proxima Nova"
+	font-family: "Roboto"
 }
 
 .c35 {
 	color: #000000;
 	font-size: 11pt;
-	font-family: "Proxima Nova"
+	font-family: "Roboto"
 }
 
 .c29 {
@@ -466,7 +466,7 @@ table th {
 }
 
 .c20 {
-	font-family: "Proxima Nova";
+	font-family: "Roboto";
 	font-weight: 400
 }
 
@@ -500,7 +500,7 @@ table th {
 	color: #353744;
 	font-size: 30pt;
 	padding-bottom: 0pt;
-	font-family: "Proxima Nova";
+	font-family: "Roboto";
 	line-height: 1.0;
 	page-break-after: avoid;
 	orphans: 2;
@@ -513,7 +513,7 @@ table th {
 	color: #00ab44;
 	font-size: 18pt;
 	padding-bottom: 0pt;
-	font-family: "Proxima Nova";
+	font-family: "Roboto";
 	line-height: 1.0;
 	page-break-after: avoid;
 	orphans: 2;
@@ -524,14 +524,14 @@ table th {
 li {
 	color: #000000;
 	font-size: 11pt;
-	font-family: "Proxima Nova"
+	font-family: "Roboto"
 }
 
 p {
 	margin: 0;
 	color: #000000;
 	font-size: 11pt;
-	font-family: "Proxima Nova"
+	font-family: "Roboto"
 }
 
 h1 {
@@ -540,7 +540,7 @@ h1 {
 	font-weight: 700;
 	font-size: 14pt;
 	padding-bottom: 10pt;
-	font-family: "Proxima Nova";
+	font-family: "Roboto";
 	line-height: 1.0;
 	page-break-after: avoid;
 	orphans: 2;
@@ -554,7 +554,7 @@ h2 {
 	font-weight: 700;
 	font-size: 12pt;
 	padding-bottom: 0pt;
-	font-family: "Proxima Nova";
+	font-family: "Roboto";
 	line-height: 1.0;
 	page-break-after: avoid;
 	orphans: 2;
@@ -568,7 +568,7 @@ h3 {
 	font-weight: 700;
 	font-size: 11pt;
 	padding-bottom: 0pt;
-	font-family: "Proxima Nova";
+	font-family: "Roboto";
 	line-height: 1.0;
 	page-break-after: avoid;
 	orphans: 2;
