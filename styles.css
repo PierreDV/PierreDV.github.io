@@ -1,5 +1,5 @@
 
-@import url(https://fonts.googleapis.com/css2?family=Proxima+Nova);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 ul.lst-kix_q43nwmkvrt8-7 {
 	list-style-type: none
@@ -281,7 +281,7 @@ table th {
 	text-decoration: none;
 	vertical-align: baseline;
 	font-size: 12pt;
-	font-family: "Proxima Nova";
+	font-family: "Roboto";
 	font-style: normal
 }
 
@@ -291,7 +291,7 @@ table th {
 	text-decoration: none;
 	vertical-align: baseline;
 	font-size: 11pt;
-	font-family: "Proxima Nova";
+	font-family: "Roboto";
 	font-style: normal
 }
 
